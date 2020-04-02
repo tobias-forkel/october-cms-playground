@@ -1,7 +1,7 @@
 # October CMS - Sandbox Plugin
 This October CMS plugin is a sandbox environment that contains reusable code snippets and shows best practice examples based on the latest [October CMS](https://octobercms.com) version.
 
-![October CMS - System Item](https://i.ibb.co/yVjHvZ6/backend-system-settings-update-playground-sandbox-settings-2020-04-02-14-51-45.gif)
+![October CMS - System Menu Item](https://i.postimg.cc/6wwHBqc6/backend-system-settings-update-playground-sandbox-settings-2020-04-02-14-51-45.gif)
 
 ## Installation (Manually)
 1. Pull the code.
