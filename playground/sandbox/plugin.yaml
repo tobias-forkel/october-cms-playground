@@ -1,0 +1,6 @@
+plugin:
+    name: 'playground.sandbox::lang.plugin.name'
+    description: 'playground.sandbox::lang.plugin.description'
+    author: 'Tobias Forkel'
+    icon: oc-icon-flask
+    homepage: 'http://tobias.forkel.me'

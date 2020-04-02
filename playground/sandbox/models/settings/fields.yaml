@@ -1,0 +1,21 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+tabs:
+    fields:
+        enabled:
+            label: playground.sandbox::lang.settings.enabled
+            comment: playground.sandbox::lang.settings.enabled_comment
+            tab: playground.sandbox::lang.settings.tab_default
+            type: checkbox
+        api_key:
+            label: playground.sandbox::lang.settings.api_key
+            comment: playground.sandbox::lang.settings.api_key_comment
+            tab: playground.sandbox::lang.settings.tab_default
+            type: text
+        account_id:
+            label: playground.sandbox::lang.settings.account_id
+            comment: playground.sandbox::lang.settings.account_id_comment
+            tab: playground.sandbox::lang.settings.tab_default
+            type: text
