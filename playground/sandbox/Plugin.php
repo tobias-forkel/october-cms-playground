@@ -21,7 +21,8 @@ class Plugin extends PluginBase
     public function registerComponents()
     {
         return [
-            'Playground\Sandbox\Components\Swing' => 'swing'
+            'Playground\Sandbox\Components\Swing' => 'swing',
+            'Playground\Sandbox\Components\Users' => 'users'
         ];
     }
 

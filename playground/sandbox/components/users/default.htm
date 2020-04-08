@@ -1,0 +1,5 @@
+<ul class="list-users">
+    {% for person in __SELF__.getPeople %}
+        <li>{{ person.username }} {{ person.email }}</li>
+    {% endfor %}
+</ul>

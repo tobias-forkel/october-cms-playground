@@ -10,6 +10,9 @@ This October CMS plugin is a sandbox environment that contains reusable code sni
 ## Features
 * How to add a new menu item in backend setting by using `registerSettings`.
 * How to make a plugin configurable by using `SettingsManager`.
+* How to add a custom `component`.
+* Call a model from a `component`.
+* List records from `users table`.
 
 ## Support
 If you have any issues with this plugin, please open a new issue on [GitHub](https://github.com/tobias-forkel/october-cms-playground/issues). For a custom build, please contact me on http://tobias.forkel.me.
@@ -24,6 +27,9 @@ If you have any issues with this plugin, please open a new issue on [GitHub](htt
 Follow me on [GitHub](https://github.com/tobias-forkel) and [Twitter](https://twitter.com/tobiasforkel).
 
 ## History
+===== 1.0.1 =====
+* Custom component added.
+
 ===== 1.0.0 =====
 * Stable version of this plugin.
 
