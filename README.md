@@ -12,7 +12,7 @@ This October CMS plugin is a sandbox environment that contains reusable code sni
 * How to make a plugin configurable by using `SettingsManager`.
 * How to add a custom `component`.
 * Call a model from a `component`.
-* List records from `users table`.
+* List records from `users` table.
 
 ## Support
 If you have any issues with this plugin, please open a new issue on [GitHub](https://github.com/tobias-forkel/october-cms-playground/issues). For a custom build, please contact me on http://tobias.forkel.me.
